@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allen John
+- 👋 Hi there,
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning node.js
 - 😄 Pronouns: he/him
