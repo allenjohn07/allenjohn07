@@ -1,6 +1,6 @@
 - 👋 Hi there,
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning mern
+- 🌱 I’m currently learning React Native
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in 10 seconds!
 
