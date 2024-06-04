@@ -4,9 +4,9 @@
 Welcome to my GitHub! I'm an IT fresher eager to dive into the world of computer science and technology. My journey has been a blend of enthusiasm and curiosity. From tinkering with my first line of code to crafting web applications, I've traversed an exciting path of learning and growth.
 
 ## 💻 Skills
-- **Languages**: JavaScript, Python, C
-- **Technologies**: React, Node.js, MongoDB
-- **Tools**: Git, VS Code
+- **Languages**: JavaScript
+- **Technologies**: React, Node.js, MongoDB, Express
+- **Tools**: VS Code
 
 ## 🎓 Education
 - Bachelor of Science in Computer Application, Mahatma Gandhi University, 2022
