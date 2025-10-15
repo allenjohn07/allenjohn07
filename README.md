@@ -1,4 +1,4 @@
-# 👋 Welcome to Ooty, Nice to meet you!
+# Welcome to Ooty, Nice to meet you!
 
 > Curious mind (for sure). Clean code (don't think so). Continuous learning (I hope so).
 
