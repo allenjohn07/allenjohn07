@@ -23,7 +23,7 @@
 ---
 
 ### 🌐 Connect me on 
-[💼 LinkedIn](https://www.linkedin.com/in/allenjohn07/) • [🌍 Portfolio](https://allenjohn.vercel.app/) • [📧 Email](allenjohnmonapallil@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/allenjohn07/) • [🌍 Portfolio](https://allenjohn.vercel.app/) • [📧 Email](mailto:allenjohnmonapallil@gmail.com)
 
 ---
 
