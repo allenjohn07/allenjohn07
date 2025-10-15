@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me  
-- 💻 I love building things that make life easier.  
+- 💻 I love building things.  
 - 🧩 Always exploring new tech, tools, and ideas.  
 - 🌱 Currently learning **Python**.  
 - ☕ Powered by coffee and curiosity.  
